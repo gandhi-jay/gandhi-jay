@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, Jay Here 👋
+
+A Software Engineer (individual contributor) with 5+ years of experience with background in full stack development and big data solutions.
+Passionate in developing great product offerings with great people, and great teams. Excited 
+
+
+
+
+
 
 <!--
 **gandhi-jay/gandhi-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
