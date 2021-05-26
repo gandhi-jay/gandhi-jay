@@ -2,10 +2,13 @@
 
 A Software Engineer (individual contributor) with 5+ years of experience with background in full stack development and big data solutions. Passionate in developing great product offerings with great people, and great teams. Interested in systems engineering, software development, UI/UX and product management.
 
+Excited to meet you please contact me on 📫 [hi@gandhijay.com](https://link.gandhijay.com/mail)
+
 ### Profiles and Blog
 
 - LeetCode: [leetcode.com/jaygandhi/](https://link.gandhijay.com/leetcode)
 - Blog: [gandhijay.com](https://link.gandhijay.com/website)
+- LinkedIn: [/in/jaygandhi7/](https://link.gandhijay.com/linkedin)
 - Github: [gandhi-jay](https://link.gandhijay.com/github) (If you're reading this, you're already on this link.)
 
 ### Work History
