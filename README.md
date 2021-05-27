@@ -1,39 +1,40 @@
 ## Hi there, Jay Here 👋
 
-A Software Engineer (individual contributor) with 5+ years of experience with background in full stack development and big data solutions. Passionate in developing great product offerings with great people, and great teams. Interested in systems engineering, software development, UI/UX and product management.
+A Software Engineer (individual contributor) with 5+ years of experience with a background in full-stack development and big data solutions. Passionate in developing great product offerings with great people, and great teams. Interested in systems engineering, software development, UI/UX and product management.
 
 Excited to meet you please contact me on 📫 [hi@gandhijay.com](https://link.gandhijay.com/mail)
+Say Hello👋 on clubhouse [@gandhijay](https://link.gandhijay.com/ch)
 
 ### Profiles and Blog
 
-- LeetCode: [leetcode.com/jaygandhi/](https://link.gandhijay.com/leetcode)
 - Blog: [gandhijay.com](https://link.gandhijay.com/website)
 - LinkedIn: [/in/jaygandhi7/](https://link.gandhijay.com/linkedin)
 - Github: [gandhi-jay](https://link.gandhijay.com/github) (If you're reading this, you're already on this link.)
+- LeetCode: [leetcode.com/jaygandhi/](https://link.gandhijay.com/leetcode)
 
 ### Work History
 
 - Senior Software Engineer at **_[ServiceNow](https://www.servicenow.com/)_** - (From January 2019)
 
-  - Collabrated with multiple team across the company.
+  - Collaborated with multiple teams across the company.
   - **Tech Stack**: Javascript (ES5, ES6), SCSS, Now UI Web Component Framework(Seismic), ServiceNow Platform
   - Developed Gantt/Grid Web Component using Now UI Framework (Seismic).
     - With Row virtualization and reusable modular code, Scaled up Grid rendering with 7000 rows.
   - Developed NodeMap (Relationship Map) Web Component using D3.js and Now UI Framework (Seismic).
   - Developed Work Planner & Project workspace.
-  - Revamped Timesheet Service Portal. (35% reduction in customer incidents from previous release
+  - Revamped Timesheet Service Portal. (35% reduction in customer incidents from the previous release)
   - Security Champion, Part of Performance and Accessibility Guild.
 
 - Full Stack Developer at **_[Report Garden](https://reportgarden.com/)_** - (June 2017 to January 2019)
 
-  - Worked in various Product across the company.
+  - Worked on various Products across the company.
   - ReportGarden
     - **Tech Stack**: Ruby On Rails with React, Sidekiq with Redis, Multiple Postgres databases, python
     - Optimized Webpack builds and created customized pop-up forms for third-party websites for a feature. (Reduced deployment time to 20 min from 35 min.)
     - Built solution and framework with the help of Apache Spark with PySpark on EMR, various AWS services like Athena, Fargate, SES & Lambda for integration. (reduced the cost of integration by 80%)
   - Helium
-    - **Tech Stack**: Java, Various AWS services like lambda, ECS, SQS, Fargate etc.
-    - Created a framework called drone which is basically sidekiq in java which is based on AWS SQS.
+    - **Tech Stack**: Java, Various AWS services like lambda, ECS, SQS, Fargate, etc.
+    - Created a framework called drone which is background scheduled jobs in java which is based on AWS SQS.
     - Integrated various third-party APIs which give marketing data for ReportGarden. Maintained and Updated various integrations.
   - TribeLocal
     - **Tech Stack**: Java, AWS lambda, Ruby On Rails with React, Sidekiq with Redis, CircleCi
@@ -47,10 +48,22 @@ Excited to meet you please contact me on 📫 [hi@gandhijay.com](https://link.ga
   - Recovered more than $1 million per quarter for the first client.
   - Worked on huge datasets with R, Python & later PySpark.
   - Managed Servers on Azure VM Machine for Apache Spark standalone cluster and Apache Zeppelin.
-  - Checkout LinkedIn Recommandation by Subu Rao (CEO & Founder of Discover Dollar).
+  - Check out LinkedIn recommendation by Subu Rao (CEO & Founder of Discover Dollar).
 
-<!--
-**gandhi-jay/gandhi-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills & Tech
+
+- Programming Language
+
+  - **_JavaScript_**
+    - Check out my JS journey [here](https://ff.gandhijay.com/js_journey).
+  - **_Java_**
+
+    - Check out my Java Journey [here](https://ff.gandhijay.com/java_journey)
+
+  - **_Python_**
+
+    <!--
+    **gandhi-jay/gandhi-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -62,4 +75,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
