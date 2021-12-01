@@ -10,7 +10,7 @@ Say Hello👋 on clubhouse [@gandhijay](https://link.gandhijay.com/ch)
 - Blog: [gandhijay.com](https://link.gandhijay.com/website)
 - LinkedIn: [/in/jaygandhi7/](https://link.gandhijay.com/linkedin)
 - Github: [gandhi-jay](https://link.gandhijay.com/github) (If you're reading this, you're already on this link.)
-- LeetCode: [leetcode.com/jaygandhi/](https://link.gandhijay.com/leetcode)
+- LeetCode: [leetcode.com/scarecrowx/](https://link.gandhijay.com/leetcode)
 
 ### Work History
 
