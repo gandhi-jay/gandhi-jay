@@ -3,7 +3,6 @@
 A Software Engineer (individual contributor) with 5+ years of experience with a background in full-stack development and big data solutions. Passionate in developing great product offerings with great people, and great teams. Interested in systems engineering, software development, UI/UX and product management.
 
 Excited to meet you please contact me on 📫 [hi@gandhijay.com](https://link.gandhijay.com/mail)
-Say Hello👋 on clubhouse [@gandhijay](https://link.gandhijay.com/ch)
 
 ### Profiles and Blog
 
@@ -49,30 +48,3 @@ Say Hello👋 on clubhouse [@gandhijay](https://link.gandhijay.com/ch)
   - Worked on huge datasets with R, Python & later PySpark.
   - Managed Servers on Azure VM Machine for Apache Spark standalone cluster and Apache Zeppelin.
   - Check out LinkedIn recommendation by Subu Rao (CEO & Founder of Discover Dollar).
-
-### Skills & Tech
-
-- Programming Language
-
-  - **_JavaScript_**
-    - Check out my JS journey [here](https://ff.gandhijay.com/js_journey).
-  - **_Java_**
-
-    - Check out my Java Journey [here](https://ff.gandhijay.com/java_journey)
-
-  - **_Python_**
-
-    <!--
-    **gandhi-jay/gandhi-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
