@@ -1,8 +1,8 @@
 ## Hi there, Jay Here 👋
 
-A Software Engineer (individual contributor) with 5+ years of experience with a background in full-stack development and big data solutions. Passionate in developing great product offerings with great people, and great teams. Interested in systems engineering, software development, UI/UX and product management.
+A Software Engineer (individual contributor) with 8+ years of experience with a background in full-stack development and big data solutions. Passionate in developing great product offerings with great people, and great teams. Interested in systems engineering, software development, UI/UX and product management.
 
-Excited to meet you please contact me on 📫 [hi@gandhijay.com](https://link.gandhijay.com/mail)
+Excited to meet you please contact me at 📫 [hi@gandhijay.com](https://link.gandhijay.com/mail)
 
 ### Profiles and Blog
 
@@ -18,7 +18,7 @@ Excited to meet you please contact me on 📫 [hi@gandhijay.com](https://link.ga
   - Collaborated with multiple teams across the company.
   - **Tech Stack**: Javascript (ES5, ES6), SCSS, Now UI Web Component Framework(Seismic), ServiceNow Platform
   - Developed Gantt/Grid Web Component using Now UI Framework (Seismic).
-    - With Row virtualization and reusable modular code, Scaled up Grid rendering with 7000 rows.
+    - With Row virtualization and reusable modular code, Scaled-up Grid rendering with 7000 rows.
   - Developed NodeMap (Relationship Map) Web Component using D3.js and Now UI Framework (Seismic).
   - Developed Work Planner & Project workspace.
   - Revamped Timesheet Service Portal. (35% reduction in customer incidents from the previous release)
@@ -43,8 +43,8 @@ Excited to meet you please contact me on 📫 [hi@gandhijay.com](https://link.ga
 - Lead Developer at **_[Discover Dollar](https://www.discoverdollar.com/)_** - (December 2015 to June 2017)
   - **Tech Stack**: Node.js with express.js, MariaDB/MySQL and MongoDB, AngularJS, R, Apache Spark with PySpark, Amazon Web Services & Azure.
   - ✨Started as one of the earliest employees as an Associate Developer.✨
-  - End to end responsibilities, Deployment to Azure VM machine/ AWS EC2s, Monitoring, Ownership of the code, managing databases, analyzing client requirements & coordinating with data scientists.
+  - End-to-end responsibilities, Deployment to Azure VM machine/ AWS EC2s, Monitoring, Ownership of the code, managing databases, analyzing client requirements & coordinating with data scientists.
   - Recovered more than $1 million per quarter for the first client.
   - Worked on huge datasets with R, Python & later PySpark.
   - Managed Servers on Azure VM Machine for Apache Spark standalone cluster and Apache Zeppelin.
-  - Check out LinkedIn recommendation by Subu Rao (CEO & Founder of Discover Dollar).
+  - Check out the LinkedIn recommendation by Subu Rao (CEO & Founder of Discover Dollar).
