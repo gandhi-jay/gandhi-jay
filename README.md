@@ -2,7 +2,7 @@
 
 A Software Engineer (individual contributor) with 8+ years of experience with a background in full-stack development and big data solutions. Passionate in developing great product offerings with great people, and great teams. Interested in systems engineering, software development, UI/UX and product management.
 
-Excited to meet you please contact me at 📫 [hi@gandhijay.com](https://link.gandhijay.com/mail)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gandhi-jay&theme=catppuccin-macchiato&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Profiles and Blog
 
