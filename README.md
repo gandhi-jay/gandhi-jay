@@ -43,4 +43,10 @@ Awarded 3 UTG Llama and 1 UTG Alpaca awards at ServiceNow over the past 3 years 
 
 Graduated with a Bachelor of Engineering in Electronics and Communication, achieving a CGPA of 7.68, from V.V.P. Engineering College, Rajkot, Gujarat, in May 2014.
 
+### Social profiles
+
+- Blog: [gandhijay.com](https://link.gandhijay.com/website)
+- LinkedIn: [/in/jaygandhi7/](https://link.gandhijay.com/linkedin)
+- Github: [gandhi-jay](https://link.gandhijay.com/github) (If you're reading this, you're already on this link.)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=gandhi-jay&theme=catppuccin-macchiato&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
