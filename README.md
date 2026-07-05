@@ -62,4 +62,5 @@ I am utilizing my current intermission to focus deeply on modern architectural f
 
 ## 🤝 Reach out
 
-- **LinkedIn:** [linkedin.com/in/jay-g](https://linkedin.com/in/jay-g)
+- **LinkedIn**: [linkedin.com/in/jay-g](https://linkedin.com/in/jay-g)
+- **Personal Site**: [https://gandhijay.com](https://gandhijay.com)
