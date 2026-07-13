@@ -64,3 +64,9 @@ I am utilizing my current intermission to focus deeply on modern architectural f
 
 - **LinkedIn**: [linkedin.com/in/jay-g](https://linkedin.com/in/jay-g)
 - **Personal Site**: [https://gandhijay.com](https://gandhijay.com)
+
+## Some Stats
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/35d7d12a-bb8f-4926-8419-336b74797cdf/thumbnail" >
+</p>
